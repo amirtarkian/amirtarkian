@@ -9,7 +9,7 @@ Computer Science & Physics major..
 
 - :magnet: Investigating local invesion symmetry breaking for 3D nanomagnetism.
 
-- :desktop_computer: Run Monte Carlo Simulations for Streubel Labs  
+- :desktop_computer: Runing Monte Carlo Simulations for Streubel Labs  
 
 - :tennis: In my free time I enjoy playing tennis and trading stocks.
 
