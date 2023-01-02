@@ -5,6 +5,8 @@
 
 Computer Science & Physics major.. 
 
+-: Preface : I cannot publicize much of my code for my lab out of NDA and some programs for school will be flagged for academic integrity, if you would like to see these please let me knwo and I an send some temorary access. 
+
 - :telescope: Passionate about innovation and multidiciplinary work. 
 
 - :magnet: Investigating local invesion symmetry breaking for 3D nanomagnetism.
@@ -14,6 +16,12 @@ Computer Science & Physics major..
 - :tennis: In my free time I enjoy playing tennis and trading stocks.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-amirtarkian-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/amirtarkian)
+
+---
+### : Check Out Some Links : 
+- : [Reasearch Poster](https://drive.google.com/file/d/12Xdgn_9QZMOtdBU9ecHKXN6i3ZyBFoBm/view?usp=sharing)
+- : [Lab Website](https://streubel.unl.edu)
+- : [Startup Project Zip File](https://drive.google.com/file/d/1K8XBISRSitqh1_TCQznL-mVFXSgQoKU_/view?usp=sharing)
 
 ---
 
