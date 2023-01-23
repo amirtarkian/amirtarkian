@@ -5,7 +5,7 @@
 
 Computer Science & Physics major.. 
 
--: Preface : I cannot publicize much of my code for my lab out of NDA and some programs for school will be flagged for academic integrity, if you would like to see these please let me knwo and I an send some temorary access. 
+-: Preface : I cannot publicize much of my code for my lab out of NDA and some programs for school will be flagged for academic integrity, if you would like to see these please let me know and I an send some temorary access. 
 
 - :telescope: Passionate about innovation and multidiciplinary work. 
 
